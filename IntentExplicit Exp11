@@ -35,7 +35,7 @@ MainActivity.java
 
 
 
-package com.example.intendexplicit;
+package com.example.intentexplicit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -111,7 +111,7 @@ Secondactivity.java
 
 
 
-package com.example.intendexplicit;
+package com.example.intentexplicit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -186,7 +186,7 @@ ThirdActivity.java
 
 
 
-package com.example.intendexplicit;
+package com.example.intentexplicit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
