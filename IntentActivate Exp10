@@ -117,7 +117,7 @@ Result.java
 
 
 
-package com.example.intentnavigate;
+package com.example.intentactivate;
 
 import androidx.appcompat.app.AppCompatActivity;
 
